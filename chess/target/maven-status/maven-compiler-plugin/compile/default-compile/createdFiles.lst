@@ -1,0 +1,12 @@
+Chess\Rook.class
+module-info.class
+Chess\App.class
+Chess\Pawn.class
+Chess\Bishop.class
+Chess\SystemInfo.class
+Chess\King.class
+Chess\Queen.class
+Chess\Knight.class
+Chess\Alert.class
+Chess\Piece.class
+Chess\Cell.class
